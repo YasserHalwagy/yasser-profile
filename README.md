@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>المهندس ياسر الحلواجي</title>
+  <title>المهندس ياسر الحلوجي</title>
   <style>
     body {
       font-family: 'Cairo', sans-serif;
@@ -60,8 +60,8 @@
 </head>
 <body>
   <div class="card">
-    <img class="profile-img" src="yasser.jpg" alt="صورة المهندس ياسر الحلواجي">
-    <h1>المهندس ياسر الحلواجي</h1>
+    <img class="profile-img" src="yasser.jpg" alt="صورة المهندس ياسر الحلوجي">
+    <h1>المهندس ياسر الحلوجي</h1>
     <h2>مهندس دعم فني وتقني</h2>
 
     <p>متخصص في أنظمة التيار الضعيف، السنترالات، المراقبة، وحلول الذكاء الاصطناعي. خبرة واسعة في تركيب وتشغيل الأنظمة التقنية الحديثة.</p>
