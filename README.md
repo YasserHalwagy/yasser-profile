@@ -60,7 +60,7 @@
 </head>
 <body>
   <div class="card">
-    <img class="profile-img" src="yasse.png" alt="صورة المهندس ياسر الحلوجي">
+    <img class="profile-img" src="yasser1.jpg" alt="صورة المهندس ياسر الحلوجي">
     <h1>المهندس ياسر الحلوجي</h1>
     <h2>مهندس دعم فني وتقني</h2>
 
