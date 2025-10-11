@@ -63,6 +63,7 @@
     <img class="profile-img" src="yasser1.jpg" alt="صورة المهندس ياسر الحلوجي">
     <h1> ياسر الحلوجي</h1>
     <h2>مهندس شبكات وتيار خفيف</h2>
+    <p><strong>الجوال:</strong> 0564073232</p>
 
     <p>
 تصميم وتنفيذ الشبكات والبنية التحتية (شبكات سلكية ولاسلكية).
@@ -76,6 +77,7 @@
     <div class="links">
      
       <a href="https://wa.me/966564073232" target="_blank">💬 واتساب</a>
+        <a href="tel:0564073232" target="_blank">📞 اتصال مباشر</a>
       <a href="https://www.linkedin.com/in/yasser-elhalwagy/" target="_blank">🔗 لينكدإن</a>
        <a href="mailto:yasserhalwagy12345@gmail.com" target="_blank">📧 البريد الإلكتروني</a>
       <a href="https://www.facebook.com/yasser.elhalwagy.7" target="_blank">📘 فيس بوك</a>
