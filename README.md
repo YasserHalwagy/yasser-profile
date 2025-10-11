@@ -78,9 +78,10 @@
       <a href="https://wa.me/966564073232" target="_blank">💬 واتساب</a>
       <a href="https://www.linkedin.com/in/yasser-elhalwagy/" target="_blank">🔗 لينكدإن</a>
        <a href="mailto:yasserhalwagy12345@gmail.com" target="_blank">📧 البريد الإلكتروني</a>
-      <a href="https://www.facebook.com/yasser.elhalwagy.7" target="_blank">🔗 فيس بوك</a>
-      <a href="https://www.instagram.com/yasserhal123/?igsh=MWdrbHZ1dGNwbHhxYg%3D%3D#" target="_blank">🔗 انستجرام</a>
-      <a href="https://www.youtube.com/@yasser-elhalwagy?si=_xEFTQsSMIMe0HOI" target="_blank">🔗 قناة اليوتيوب</a>
+      <a href="https://www.facebook.com/yasser.elhalwagy.7" target="_blank">📘 فيس بوك</a>
+      <a href="https://www.instagram.com/yasserhal123/?igsh=MWdrbHZ1dGNwbHhxYg%3D%3D#" target="_blank">📸 انستجرام</a>
+      <a href="https://www.youtube.com/@yasser-elhalwagy?si=_xEFTQsSMIMe0HOI" target="_blank">▶️ قناة اليوتيوب</a>
+  
     </div>
   </div>
 </body>
